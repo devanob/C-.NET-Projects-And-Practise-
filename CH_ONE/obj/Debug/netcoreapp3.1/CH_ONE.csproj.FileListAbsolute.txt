@@ -1,0 +1,13 @@
+/home/devano/Documents/dotNet/CH_ONE/bin/Debug/netcoreapp3.1/CH_ONE
+/home/devano/Documents/dotNet/CH_ONE/bin/Debug/netcoreapp3.1/CH_ONE.deps.json
+/home/devano/Documents/dotNet/CH_ONE/bin/Debug/netcoreapp3.1/CH_ONE.runtimeconfig.json
+/home/devano/Documents/dotNet/CH_ONE/bin/Debug/netcoreapp3.1/CH_ONE.runtimeconfig.dev.json
+/home/devano/Documents/dotNet/CH_ONE/bin/Debug/netcoreapp3.1/CH_ONE.dll
+/home/devano/Documents/dotNet/CH_ONE/bin/Debug/netcoreapp3.1/CH_ONE.pdb
+/home/devano/Documents/dotNet/CH_ONE/obj/Debug/netcoreapp3.1/CH_ONE.csprojAssemblyReference.cache
+/home/devano/Documents/dotNet/CH_ONE/obj/Debug/netcoreapp3.1/CH_ONE.AssemblyInfoInputs.cache
+/home/devano/Documents/dotNet/CH_ONE/obj/Debug/netcoreapp3.1/CH_ONE.AssemblyInfo.cs
+/home/devano/Documents/dotNet/CH_ONE/obj/Debug/netcoreapp3.1/CH_ONE.csproj.CoreCompileInputs.cache
+/home/devano/Documents/dotNet/CH_ONE/obj/Debug/netcoreapp3.1/CH_ONE.dll
+/home/devano/Documents/dotNet/CH_ONE/obj/Debug/netcoreapp3.1/CH_ONE.pdb
+/home/devano/Documents/dotNet/CH_ONE/obj/Debug/netcoreapp3.1/CH_ONE.genruntimeconfig.cache
